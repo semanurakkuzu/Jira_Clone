@@ -1,0 +1,138 @@
+.anticon {
+  vertical-align: -0.3em !important;
+}
+
+.a-layout-sider {
+  background: #fff;
+}
+
+.ant-sub-menu {
+  padding: 0 20px !important;
+}
+
+.ant-menu-submenu-title {
+  padding: 0px !important;
+}
+
+.ant-menu-submenu-title:hover {
+  color: #c0c0c0 !important;
+}
+
+.ant-menu-submenu-selected {
+  color: #1d2939 !important;
+  padding: 0 20px !important;
+  border-radius: 5px;
+}
+
+.ant-menu-submenu-inline > .ant-menu-submenu-title:hover .ant-menu-submenu-arrow::before {
+  background: linear-gradient(to right, #1d2939, #1d2939) !important;
+}
+
+.ant-menu-submenu-inline > .ant-menu-submenu-title:hover .ant-menu-submenu-arrow::after {
+  background: linear-gradient(to right, #1d2939, #1d2939) !important;
+}
+
+.ant-menu-item {
+  color: #667085;
+  padding: 0 20px !important;
+  border-radius: 5px;
+}
+
+.ant-menu-item::after {
+  border: none !important;
+}
+
+.ant-menu-item-selected {
+  background-color: #f2f4f7 !important;
+  color: #1d2939 !important;
+  padding: 0 20px !important;
+  border-radius: 5px;
+}
+
+.ant-menu-item:hover {
+  color: #1d2939 !important;
+  background-color: #f2f4f7 !important;
+  border-radius: 5px;
+}
+
+.ant-menu-item-selected .count-badge {
+  color: #ffffff !important;
+  background-color: #1d2939;
+  margin: 0 1px;
+  padding: 0.2em 0.5em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.ant-menu-item:hover .count-badge {
+  color: #ffffff !important;
+  background-color: #1d2939;
+  margin: 0 1px;
+  padding: 0.2em 0.5em;
+  border-radius: 3px;
+  font-size: 0.9em;
+}
+
+.ant-input:hover {
+  border-color: #667085 !important;
+}
+
+.ant-input:focus {
+  border-color: #667085 !important;
+  box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.2) !important;
+}
+
+.ant-btn:hover {
+  color: #667085 !important;
+  background-color: #fff;
+  border-color: #667085 !important;
+}
+
+.ant-btn:focus {
+  color: #667085 !important;
+  background-color: #fff;
+  border-color: #667085 !important;
+}
+
+.ant-btn-primary {
+  color: #ffff !important;
+  background-color: #1d2939 !important;
+  border-color: #d2d4d6 !important;
+  text-shadow: 0 -1px 0 rgb(0 0 0 / 12%);
+  box-shadow: 0 2px 0 rgba(255, 255, 255, 0.05);
+}
+
+.ant-btn-primary:hover {
+  color: #ffff !important;
+  border-color: #ffffff !important;
+}
+
+.ant-calendar-selected-day .ant-calendar-date {
+  background: #f2f4f7 !important;
+}
+
+.ant-calendar-today .ant-calendar-date {
+  color: #667085 !important;
+  font-weight: bold;
+  border-color: #667085 !important;
+}
+
+.ant-calendar-date:hover {
+  background-color: #d2d4d6 !important;
+}
+
+.ant-calendar-today-btn {
+  color: #667085 !important;
+}
+
+.ant-calendar-header a:hover {
+  color: #667085 !important;
+}
+
+.ant-calendar-picker:hover .ant-calendar-picker-input:not(.ant-input-disabled) {
+  border-color: #667085 !important;
+}
+
+.mb-20 {
+  margin-bottom: 20px;
+}
