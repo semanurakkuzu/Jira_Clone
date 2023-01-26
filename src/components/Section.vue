@@ -164,7 +164,7 @@ export default {
   margin: 5px;
   padding: 5px;
   width: 340px;
-  height: 720px;
+  height:calc(100vh - 230px);
   overflow-x: hidden;
   overflow-y: scroll;
   white-space: nowrap;
